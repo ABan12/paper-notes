@@ -6,4 +6,4 @@
 
 | Date | Paper | Topic | Link |
 |---|---|---|---|
-| 2026-05-16 | Attention Is All You Need | Transformer, NLP | [Note](notes/2026-05-16-attention-is-all-you-need.md) |
+| 2026-05-16 | 《A Survey on Inference Optimization Techniques for Mixture of Experts Models》 | Moe, Pruning |  |
